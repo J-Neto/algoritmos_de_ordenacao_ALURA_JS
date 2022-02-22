@@ -1,7 +1,7 @@
 // FUNÇÃO PRINCIPAL
 
 // importando lista de livros e função interna
-const livros = require('./listaLivros');
+const livros = require('../listaLivros');
 const menorValor = require('./menorValor');
 
 console.log('Lista inicial: ', livros);
