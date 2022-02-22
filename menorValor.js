@@ -4,6 +4,7 @@
 //  Percorre a lista a partir da posição inicial recebida da função externa...
 //  comparando um valor de referência (atual) com o resto da lista para saber...
 //  quem é o menor número.
+//  retorna o ÍNDICE do menor número.
 
 function menorValor(arrProdutos, posicaoInicial) {
     let maisBarato = posicaoInicial;
