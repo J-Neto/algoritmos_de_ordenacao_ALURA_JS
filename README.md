@@ -2,3 +2,4 @@
 
         - Insertion Sort
         - Selection Sort
+        - Quick Sort
