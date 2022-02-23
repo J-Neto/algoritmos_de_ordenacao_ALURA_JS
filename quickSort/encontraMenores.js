@@ -38,4 +38,5 @@ function divideNoPivo (array) {
 }
 
 console.log(divideNoPivo(listaLivros));
+module.exports = trocaLugar;
 // console.log(encontraMenores(listaLivros[2], listaLivros));
